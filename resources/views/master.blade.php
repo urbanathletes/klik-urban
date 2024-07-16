@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Guest Form Fitnessworks" />
-    <title>Fitnessworks - Forms</title>
-    <link rel="icon" href="{{ URL::asset('assets/img/favicon.ico') }}">
+    <title>Urban Athletes - Forms</title>
+    <link rel="icon" href="{{ URL::asset('assets/img/logoUA-tem.png') }}">
     <link rel="stylesheet" href="{{ URL::asset('assets/css/bootstrap/bootstrap.css') }}" />
     <link rel="stylesheet" href="{{ URL::asset('assets/css/style-form.css') }}" />
     <link rel="stylesheet"
